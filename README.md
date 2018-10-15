@@ -1,3 +1,6 @@
+NOTE: ROSful is now a part of the pyros project; please see https://github.com/pyros-dev/rostful . The repo here is not maintained.
+======
+
 ROStful
 =======
 
